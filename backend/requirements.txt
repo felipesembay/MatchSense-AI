@@ -1,0 +1,37 @@
+# Core Framework
+streamlit>=1.32.0
+fastapi>=0.110.0
+uvicorn>=0.27.0
+
+# Machine Learning & NLP
+transformers>=4.40.0
+torch>=2.2.0
+sentence-transformers>=2.5.0
+scikit-learn>=1.4.0
+nltk>=3.8.0
+
+# Data Processing
+numpy>=1.26.0
+pandas>=2.2.0
+
+# Document Processing
+PyPDF2>=3.0.0
+python-docx>=1.1.0
+openpyxl>=3.1.0
+
+# Visualization
+plotly>=5.20.0
+altair>=5.2.0
+
+# Utilities
+python-multipart>=0.0.6
+pydantic>=2.6.0
+python-dotenv>=1.0.0
+textstat>=0.7.0
+
+# Optional: spaCy for advanced NLP (can be installed separately if needed)
+# spacy>=3.8.0
+
+# Streamlit Extensions
+streamlit-option-menu>=0.3.6
+streamlit-aggrid>=0.3.4 

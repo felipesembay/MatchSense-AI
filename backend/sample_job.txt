@@ -1,0 +1,78 @@
+DESENVOLVEDOR FULL STACK SENIOR
+
+Empresa: TechInnovation Ltda
+Localização: São Paulo, SP (Híbrido)
+Tipo: CLT
+Salário: R$ 8.000 - R$ 12.000
+
+SOBRE A EMPRESA
+A TechInnovation é uma startup de tecnologia focada em soluções inovadoras para o mercado financeiro. Estamos buscando um desenvolvedor Full Stack Senior para integrar nossa equipe e contribuir com o desenvolvimento de produtos de alta qualidade.
+
+RESPONSABILIDADES
+• Desenvolver aplicações web escaláveis e de alta performance
+• Implementar APIs RESTful e GraphQL
+• Trabalhar com arquitetura de microserviços
+• Participar de code reviews e mentoria de desenvolvedores júnior
+• Colaborar com equipes de produto e design
+• Implementar testes automatizados
+• Otimizar performance e escalabilidade de aplicações
+• Participar de decisões arquiteturais
+
+REQUISITOS OBRIGATÓRIOS
+• 5+ anos de experiência em desenvolvimento Full Stack
+• Experiência sólida com Python (Django/Flask/FastAPI)
+• Experiência com JavaScript/TypeScript e frameworks modernos (React/Vue/Angular)
+• Conhecimento em bancos de dados relacionais (PostgreSQL/MySQL)
+• Experiência com Git e metodologias ágeis
+• Conhecimento em Docker e containers
+• Experiência com APIs RESTful
+• Inglês intermediário para leitura de documentação
+
+REQUISITOS DIFERENCIAIS
+• Experiência com Node.js
+• Conhecimento em cloud computing (AWS/GCP/Azure)
+• Experiência com Redis e cache
+• Conhecimento em Elasticsearch
+• Experiência com Kubernetes
+• Conhecimento em GraphQL
+• Experiência com testes automatizados (TDD/BDD)
+• Experiência com CI/CD
+• Conhecimento em monitoramento e observabilidade
+
+HABILIDADES COMPORTAMENTAIS
+• Trabalho em equipe
+• Comunicação efetiva
+• Resolução de problemas complexos
+• Aprendizado contínuo
+• Liderança técnica
+• Gestão de tempo
+• Adaptabilidade a mudanças
+• Proatividade
+
+BENEFÍCIOS
+• Plano de saúde
+• Vale refeição
+• Vale transporte
+• Gympass
+• Plano odontológico
+• Seguro de vida
+• Participação nos lucros
+• Horário flexível
+• Trabalho remoto híbrido
+• Desenvolvimento profissional
+
+TECNOLOGIAS UTILIZADAS
+• Backend: Python, Django, FastAPI, Node.js
+• Frontend: React, TypeScript, Vue.js
+• Banco de Dados: PostgreSQL, Redis, Elasticsearch
+• Cloud: AWS, Docker, Kubernetes
+• Ferramentas: Git, Jenkins, Jira, Confluence
+
+PROCESSO SELETIVO
+1. Análise de currículo
+2. Teste técnico
+3. Entrevista com RH
+4. Entrevista técnica
+5. Entrevista final com gestor
+
+Para se candidatar, envie seu currículo com portfólio de projetos e carta de apresentação explicando por que gostaria de fazer parte da nossa equipe. 

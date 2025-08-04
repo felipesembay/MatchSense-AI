@@ -1,0 +1,107 @@
+JOÃO SILVA SANTOS
+joao.silva@email.com
+(11) 99999-9999
+São Paulo, SP
+LinkedIn: linkedin.com/in/joaosilva
+GitHub: github.com/joaosilva
+
+RESUMO PROFISSIONAL
+Desenvolvedor Full Stack com 5 anos de experiência em desenvolvimento web, especializado em Python, JavaScript e React. Experiência em projetos de e-commerce, sistemas de gestão e aplicações mobile. Comprometido com boas práticas de desenvolvimento, código limpo e arquitetura escalável.
+
+EXPERIÊNCIA PROFISSIONAL
+
+Desenvolvedor Full Stack Senior
+TechCorp Ltda | 2022 - Presente
+• Desenvolvimento de aplicações web usando Python (Django/Flask), JavaScript (React/Node.js)
+• Implementação de APIs RESTful e GraphQL
+• Otimização de performance e escalabilidade de aplicações
+• Mentoria de desenvolvedores júnior
+• Tecnologias: Python, Django, React, Node.js, PostgreSQL, Redis, Docker
+
+Desenvolvedor Full Stack Pleno
+StartupXYZ | 2020 - 2022
+• Desenvolvimento de sistema de e-commerce completo
+• Integração com gateways de pagamento (PagSeguro, MercadoPago)
+• Implementação de sistema de busca semântica
+• Tecnologias: Python, Flask, JavaScript, Vue.js, MySQL, Elasticsearch
+
+Desenvolvedor Frontend Júnior
+WebDev Solutions | 2019 - 2020
+• Desenvolvimento de interfaces responsivas
+• Implementação de componentes reutilizáveis
+• Otimização de SEO e performance
+• Tecnologias: HTML5, CSS3, JavaScript, React, Bootstrap
+
+FORMAÇÃO ACADÊMICA
+
+Bacharelado em Ciência da Computação
+Universidade de São Paulo (USP) | 2015 - 2019
+• TCC: "Sistema de Recomendação Baseado em Machine Learning"
+• Participação em projetos de extensão universitária
+
+Técnico em Informática
+ETEC | 2013 - 2015
+• Foco em desenvolvimento web e programação orientada a objetos
+
+HABILIDADES TÉCNICAS
+
+Linguagens de Programação:
+• Python (avançado)
+• JavaScript/TypeScript (avançado)
+• Java (intermediário)
+• SQL (avançado)
+
+Frameworks e Bibliotecas:
+• Django, Flask, FastAPI
+• React, Vue.js, Angular
+• Node.js, Express
+• Bootstrap, Tailwind CSS
+
+Banco de Dados:
+• PostgreSQL, MySQL, MongoDB
+• Redis, Elasticsearch
+
+Ferramentas e Tecnologias:
+• Git, Docker, Kubernetes
+• AWS, Google Cloud
+• Jenkins, GitHub Actions
+• Jira, Confluence
+
+HABILIDADES COMPORTAMENTAIS
+• Trabalho em equipe
+• Comunicação efetiva
+• Resolução de problemas
+• Aprendizado contínuo
+• Liderança técnica
+• Gestão de tempo
+• Adaptabilidade
+
+IDIOMAS
+• Português (nativo)
+• Inglês (fluente)
+• Espanhol (intermediário)
+
+CERTIFICAÇÕES
+• AWS Certified Developer Associate
+• Google Cloud Professional Developer
+• Scrum Master Certified (SMC)
+
+PROJETOS DESTACADOS
+
+E-commerce Platform
+• Sistema completo de e-commerce com mais de 10.000 produtos
+• Integração com múltiplos gateways de pagamento
+• Sistema de recomendação personalizado
+• Performance otimizada com cache Redis
+
+Sistema de Gestão Empresarial
+• ERP customizado para empresa de logística
+• Módulos de estoque, vendas, financeiro e RH
+• Dashboard interativo com métricas em tempo real
+• API RESTful para integração com sistemas externos
+
+Aplicativo Mobile de Delivery
+• App React Native para delivery de alimentos
+• Integração com GPS e mapas
+• Sistema de notificações push
+• Mais de 50.000 downloads na Play Store 

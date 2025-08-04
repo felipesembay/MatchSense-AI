@@ -1,0 +1,125 @@
+=== CANDIDATO 1: João Silva Santos ===
+JOÃO SILVA SANTOS
+joao.silva@email.com
+(11) 99999-9999
+São Paulo, SP
+
+RESUMO PROFISSIONAL
+Desenvolvedor Full Stack com 5 anos de experiência em desenvolvimento web, especializado em Python, JavaScript e React. Experiência em projetos de e-commerce, sistemas de gestão e aplicações mobile. Comprometido com boas práticas de desenvolvimento, código limpo e arquitetura escalável.
+
+EXPERIÊNCIA PROFISSIONAL
+Desenvolvedor Full Stack Senior
+TechCorp Ltda | 2022 - Presente
+• Desenvolvimento de aplicações web usando Python (Django/Flask), JavaScript (React/Node.js)
+• Implementação de APIs RESTful e GraphQL
+• Otimização de performance e escalabilidade de aplicações
+• Mentoria de desenvolvedores júnior
+• Tecnologias: Python, Django, React, Node.js, PostgreSQL, Redis, Docker
+
+HABILIDADES TÉCNICAS
+Linguagens: Python, JavaScript, TypeScript, SQL
+Frameworks: Django, Flask, React, Node.js, Express
+Banco de Dados: PostgreSQL, MySQL, MongoDB, Redis
+Cloud: AWS, Docker, Kubernetes
+Ferramentas: Git, Jenkins, Jira
+
+=== CANDIDATO 2: Maria Oliveira Costa ===
+MARIA OLIVEIRA COSTA
+maria.oliveira@email.com
+(11) 88888-8888
+Rio de Janeiro, RJ
+
+RESUMO PROFISSIONAL
+Data Scientist com 4 anos de experiência em machine learning, análise de dados e desenvolvimento de modelos preditivos. Especializada em Python, R e ferramentas de big data. Experiência em projetos de inteligência artificial e automação de processos.
+
+EXPERIÊNCIA PROFISSIONAL
+Data Scientist Senior
+DataTech Solutions | 2021 - Presente
+• Desenvolvimento de modelos de machine learning para análise preditiva
+• Implementação de pipelines de dados com Apache Spark e Airflow
+• Análise exploratória de dados e criação de dashboards
+• Tecnologias: Python, R, TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy
+
+HABILIDADES TÉCNICAS
+Linguagens: Python, R, SQL
+ML/AI: TensorFlow, PyTorch, Scikit-learn, Keras
+Análise de Dados: Pandas, NumPy, Matplotlib, Seaborn
+Big Data: Apache Spark, Hadoop, Airflow
+Cloud: Google Cloud Platform, AWS, Azure
+
+=== CANDIDATO 3: Carlos Ferreira Lima ===
+CARLOS FERREIRA LIMA
+carlos.ferreira@email.com
+(11) 77777-7777
+Belo Horizonte, MG
+
+RESUMO PROFISSIONAL
+DevOps Engineer com 6 anos de experiência em infraestrutura como código, automação de deployments e monitoramento de sistemas. Especializado em AWS, Kubernetes e ferramentas de CI/CD. Experiência em migração de aplicações para cloud e otimização de performance.
+
+EXPERIÊNCIA PROFISSIONAL
+DevOps Engineer Senior
+CloudOps Ltda | 2020 - Presente
+• Implementação de infraestrutura como código com Terraform e CloudFormation
+• Configuração e manutenção de clusters Kubernetes
+• Automação de pipelines CI/CD com Jenkins e GitLab
+• Monitoramento e alertas com Prometheus e Grafana
+• Tecnologias: AWS, Kubernetes, Docker, Terraform, Jenkins, GitLab
+
+HABILIDADES TÉCNICAS
+Cloud: AWS, Google Cloud Platform, Azure
+Containerização: Docker, Kubernetes, Helm
+IaC: Terraform, CloudFormation, Ansible
+CI/CD: Jenkins, GitLab CI, GitHub Actions
+Monitoramento: Prometheus, Grafana, ELK Stack
+Scripting: Python, Bash, PowerShell
+
+=== CANDIDATO 4: Ana Paula Rodrigues ===
+ANA PAULA RODRIGUES
+ana.rodrigues@email.com
+(11) 66666-6666
+Curitiba, PR
+
+RESUMO PROFISSIONAL
+Desenvolvedora Mobile com 3 anos de experiência em desenvolvimento de aplicativos iOS e Android. Especializada em React Native, Flutter e desenvolvimento nativo. Experiência em UX/UI e otimização de performance mobile.
+
+EXPERIÊNCIA PROFISSIONAL
+Desenvolvedora Mobile Senior
+MobileTech | 2022 - Presente
+• Desenvolvimento de aplicativos mobile com React Native e Flutter
+• Implementação de funcionalidades nativas para iOS e Android
+• Otimização de performance e experiência do usuário
+• Integração com APIs RESTful e serviços de backend
+• Tecnologias: React Native, Flutter, Swift, Kotlin, Firebase
+
+HABILIDADES TÉCNICAS
+Mobile: React Native, Flutter, Swift, Kotlin
+Backend: Node.js, Express, Firebase
+Banco de Dados: SQLite, Realm, Firebase Firestore
+Design: Figma, Adobe XD, Sketch
+Testes: Jest, Detox, XCTest, Espresso
+
+=== CANDIDATO 5: Pedro Santos Almeida ===
+PEDRO SANTOS ALMEIDA
+pedro.almeida@email.com
+(11) 55555-5555
+Salvador, BA
+
+RESUMO PROFISSIONAL
+Desenvolvedor Backend com 7 anos de experiência em desenvolvimento de APIs e sistemas distribuídos. Especializado em Java, Spring Boot e arquiteturas de microserviços. Experiência em sistemas de alta performance e escalabilidade.
+
+EXPERIÊNCIA PROFISSIONAL
+Desenvolvedor Backend Senior
+BackendTech | 2019 - Presente
+• Desenvolvimento de APIs RESTful e GraphQL com Java e Spring Boot
+• Implementação de arquiteturas de microserviços
+• Otimização de performance e escalabilidade de sistemas
+• Integração com sistemas de mensageria e cache
+• Tecnologias: Java, Spring Boot, Spring Cloud, Kafka, Redis, PostgreSQL
+
+HABILIDADES TÉCNICAS
+Linguagens: Java, Kotlin, Groovy
+Frameworks: Spring Boot, Spring Cloud, Hibernate
+Banco de Dados: PostgreSQL, MySQL, MongoDB, Redis
+Mensageria: Apache Kafka, RabbitMQ, ActiveMQ
+Cloud: AWS, Docker, Kubernetes
+Testes: JUnit, Mockito, TestContainers 
