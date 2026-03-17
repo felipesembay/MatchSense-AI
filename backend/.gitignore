@@ -1,0 +1,11 @@
+sample_candidates.txt
+sample_jobs.txt
+sample_resumes.txt
+
+# Ambiente virtual
+busca_semantica/semantic/
+
+# Outros ignores comuns
+.env
+*.pyc
+__pycache__
